@@ -17,6 +17,6 @@ void main() {
     print("c is double");
   }
   
-  
+  //a = "String";  當var賦予某個資料型態就不能再改變其形態 
   
 }
